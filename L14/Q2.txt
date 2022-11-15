@@ -1,0 +1,6 @@
+It is very easy to write the code in any programming language after developing an algorithm for that problem.
+
+
+
+
+After a finite number of steps an algorithm must reach an end state.
