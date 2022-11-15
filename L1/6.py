@@ -1,0 +1,1 @@
+print('Abracadabra'*7)

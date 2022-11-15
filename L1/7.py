@@ -1,0 +1,1 @@
+print("wh" "ere", "the" "re", "is", "a", "will,", "th""ere", "is", "a", "way")
