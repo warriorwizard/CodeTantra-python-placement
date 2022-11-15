@@ -1,0 +1,1 @@
+Strings are Immutable (we can't assign or change the value)
