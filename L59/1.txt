@@ -1,0 +1,5 @@
+Each module gets it’s own global namespaces.
+
+The builtin functions that can be used in any module are called __builtin__ and have their own namespace.
+
+The namespaces are isolated which means the names in one module can be used in another module.

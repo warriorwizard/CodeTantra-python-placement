@@ -1,0 +1,6 @@
+pip is the most preferred package installation program .
+
+
+When we want to install some packages for a particular application only, we use virtual environment.
+
+You can install a specific version of package with pip.

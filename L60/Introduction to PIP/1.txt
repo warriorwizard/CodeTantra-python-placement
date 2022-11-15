@@ -1,0 +1,7 @@
+PIP - is a package management system that helps in installing python packages and managing them.
+
+
+PIP can be installed through the system package manager or by invoking cURL, a client-side data transfer tool.
+
+
+Pip stands for "Preferred Installer Program".

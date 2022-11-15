@@ -1,0 +1,5 @@
+A scope refers to the specific area of a program where the variables of that namespace do not need a prefix.
+
+All modules have a global namespace on their own.
+
+One function cannot access the names inside an other function.

@@ -1,0 +1,3 @@
+Packages can be thought as directories with some specific rules.
+
+Each package should have a file called __init__.py

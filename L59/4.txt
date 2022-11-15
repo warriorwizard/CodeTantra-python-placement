@@ -1,0 +1,3 @@
+A local scope, the list of all the names available in the current executing function.
+
+A module level scope that is a list of all the global names of the current module.

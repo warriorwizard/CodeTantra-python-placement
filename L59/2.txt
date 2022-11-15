@@ -1,0 +1,6 @@
+Namespaces in python are very helpful in organising the code in very large projects.
+
+ In Python, an identifier is used to name a variable to function and just about anything.
+
+ 
+A namespace is a place that holds a bunch of names.
