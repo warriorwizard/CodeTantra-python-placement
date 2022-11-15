@@ -1,0 +1,1 @@
+print("contents:",[int(x) for x in input('data: ').split()])

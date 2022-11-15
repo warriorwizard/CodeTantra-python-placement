@@ -1,0 +1,11 @@
+a=set(input("data1: ").split(','))
+b=set(input("data2: ").split(','))
+print("set1 sorted:",sorted(list(a)))
+print("set2 sorted:",sorted(list(b)))
+print("Intersection:",(list(sorted(a.intersection(b)))))
+# k=list(a&b)
+print("sorted set after (set1 & set2):",list(sorted(a&b)))
+# l=list(a&=b)
+print("sorted set1 after (set1 &= set2):",list(sorted(a&b)))
+
+print("sorted set2 after (set1 &= set2):",list(sorted(b)))

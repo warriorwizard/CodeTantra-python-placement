@@ -1,0 +1,17 @@
+data1=input("data1: ").split(',')
+data2=input("data2: ").split(',')
+data3=input("data3: ").split(',')
+data4=input("data4: ").split(',')
+p=dict(sorted(zip(data1,data2)))
+l=dict(sorted(zip(data3,data4)))
+# a=list(sorted(zip(data1,data2)))
+# b=list(sorted(zip(data3,data4)))
+print("sorted dictionary:",list(p.items()))
+k=p.copy()
+print("copy of sorted dictionary:",list(k.items()))
+print("sorted keys of dictionary:",list(k.keys()))
+print("sorted values of dictionary:",list(k.values()))
+# r=p+l
+
+p.update(l)
+print("sorted dictionary after updation:",list(sorted(p.items())))

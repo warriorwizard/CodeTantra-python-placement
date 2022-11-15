@@ -1,0 +1,8 @@
+a=input("data1: ").split(',')
+b=input("element: ")
+c=set(a)
+c.add(b)
+print("sorted set after adding:",sorted(c))
+l=input("data2: ").split(',')
+c.update(l)
+print("sorted set after updating:",sorted(c))
