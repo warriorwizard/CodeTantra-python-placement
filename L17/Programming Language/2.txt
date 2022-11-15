@@ -1,0 +1,10 @@
+Understanding exactly the inputs the algorithm needs is the fundamental to understanding the problem.
+
+
+Algorithmic design techniques are the cornerstone for designing algorithms for problems.
+
+
+Pseudocode, Flowcharts are methods of expressing an algorithm.
+
+
+An Algorithm should be both time and space efficient besides being simple.

@@ -1,0 +1,5 @@
+A programmer need to understand the syntax of the programming language.
+
+A program written in a particular language has to be translated into machine language.
+
+It is a time consuming process and difficult to isolate errors in a program written in machine language.

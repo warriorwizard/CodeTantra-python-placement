@@ -1,0 +1,5 @@
+XML is an example of markup programming language.
+
+Scripting languages are used to automate frequently executing tasks.
+
+Functional programming language uses conditional expressions and recursion to perform computation.
