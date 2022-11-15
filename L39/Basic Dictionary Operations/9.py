@@ -1,0 +1,10 @@
+data1 = input("data1: ")
+data2 = input("data2: ")
+list1 = data1.split(",")
+list2 = data2.split(",")
+dict1 = dict(zip(list1, list2))
+a=dict1.keys()
+b=dict1.values()
+
+print('max:',max(b))
+print('min:',min(b))
