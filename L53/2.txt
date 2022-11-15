@@ -1,0 +1,1 @@
+In circular recursion more than one function is involved.

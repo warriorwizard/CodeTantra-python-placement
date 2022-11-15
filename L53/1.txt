@@ -1,0 +1,3 @@
+A function call when made within the definition of the same function is known as a recursion function.
+
+Every time a recursive call is made, the arguments passed to the function should be closer to the base criteria.

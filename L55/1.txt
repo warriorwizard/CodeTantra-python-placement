@@ -1,0 +1,5 @@
+In early times, all the programming languages had huge lines of code that increased in leaps and bounds.
+
+A module contains a set of classes, functions, variables hat got together to get a specific set of tasks done.
+
+In Python, a module is a python file (.py).

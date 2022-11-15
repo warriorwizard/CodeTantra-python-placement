@@ -1,0 +1,5 @@
+A fruitful function is a function, it returns a value when it is called.
+
+A return statement consists of the return keyword followed by an expression.
+
+Python returns immediately when it reaches a return statement .
