@@ -1,0 +1,11 @@
+a=input('data1: ').split(',')
+ele=input('element: ')
+a.append(ele)
+print('after append:',a)
+b=input('data2: ').split(',')
+# print('data2:',b)
+a.append(b)
+print('after append:',a)
+a.extend(b)
+print('after extending:',a)
+
