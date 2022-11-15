@@ -1,0 +1,1 @@
+l1 = [1, 20, 30, 40] index of l1 starts from 0.

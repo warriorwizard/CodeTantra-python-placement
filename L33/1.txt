@@ -1,0 +1,1 @@
+Lists are ordered and can contain other lists as elements.
