@@ -1,0 +1,7 @@
+In Python, we can convert strings of Uppercase letters into lower case and lower case to upper case using swapcase() method.
+
+
+print('python is simple'.title()) gives output like Python Is Simple.
+
+
+print('20.3'.isnumeric()) it returns output as False.

@@ -1,0 +1,6 @@
+print("\nhello") prints the output hello on a new line
+
+str = '123', the below code is correct to convert string into int. print(int(str)) # 123.
+
+
+str = "hello world", print(str.isalnum()) returns False.
