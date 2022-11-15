@@ -1,0 +1,5 @@
+a=int(input('num1: '))
+b=int(input('num2: '))
+print(f'Exponent of {a} with {b} = {a**b}')
+print(f'Modulus of {a} and {b} = {a%b}')
+print(f'Floor Division of {a} and {b} = {a//b}')
