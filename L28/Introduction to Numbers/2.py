@@ -1,0 +1,6 @@
+a=complex(input('c1: '))
+b=complex(input('c2: '))
+print(f"a1 + b2 = {a+b}")
+print(f"a1 - b2 = {a-b}")
+print(f"a1 * b2 = {a*b}")
+print(f"a1 / b2 = {a/b}")
