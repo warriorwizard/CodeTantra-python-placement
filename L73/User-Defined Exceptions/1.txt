@@ -1,0 +1,5 @@
+Python supports a lot of in-built exceptions.
+
+All user defined exceptions have to be derived from the Exception class.
+
+Python built-in exceptions extend from the BaseException/Exception class.

@@ -1,0 +1,7 @@
+A program may exit unexpectedly during execution if it encounters a runtime error.
+
+A runtime error is a problem that was not detected when the program was parsed by the interpreter, but is only found out at a specific line execution.
+
+When a program exits when a run time error occurs, we say the program crashed.
+
+Division by zero is not a logical error.

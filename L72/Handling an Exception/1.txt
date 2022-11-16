@@ -1,0 +1,6 @@
+A try block can have more than one except block, each block handling a type of Exception.
+
+
+Based on the Exception/error that has been generated, the except block that is written to handle that exception is invoked.
+
+Finally block is executed in the case of exceptions or no exceptions.

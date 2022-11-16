@@ -1,0 +1,3 @@
+Logical Errors are the most difficult errors.
+Programs that have Logical Errors get compiled and executed but give wrong results.
+Logical Errors can be caused by the usage of the wrong variable name.

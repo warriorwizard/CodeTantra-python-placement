@@ -1,0 +1,5 @@
+The root exception class is the BaseException.
+
+SystemExit, KeyboardInterrupt, GeneratorExit and Exception extend from the BaseException.
+
+The Rest of the built-in classes are derived from The Exception class.

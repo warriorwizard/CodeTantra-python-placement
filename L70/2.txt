@@ -1,0 +1,6 @@
+All exceptions should be instances of the derived class of the BaseException class.
+
+
+In the except block, if the exception is handled, it means it can also handle all the exception types that are derived from this Exception class.
+
+All built-in exceptions are derived from the Exception class.

@@ -1,0 +1,7 @@
+ It is good way of programming to write exception handling for a few lines of code.
+
+
+An advantage of exception handling is it separates normal code and exception handling code.
+
+
+Exceptions are passed from functions in the stack until they reach a function that knows how to handle them.

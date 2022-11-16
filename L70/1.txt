@@ -1,0 +1,7 @@
+Exception is an event which occurs to disrupt the flow of the given program.
+
+
+Exception handling is a rich feature provided by Python language.
+
+
+If the code executes without any error, the except block is skipped and control goes to the statement after the except block.

@@ -1,0 +1,3 @@
+finally block will be executed whatever the outcome that happens in the try block.
+
+finally block is written after all the except blocks.

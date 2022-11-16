@@ -1,0 +1,5 @@
+A error is generally a bug in the program usually caused by the developer who develops the code.
+
+There are generally three types of errors.
+
+Syntax errors are mistakes that happen if the programs that are written do not use the correct format of the language.
