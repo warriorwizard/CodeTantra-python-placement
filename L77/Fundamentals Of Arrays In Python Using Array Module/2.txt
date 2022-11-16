@@ -1,0 +1,6 @@
+We can store homogenous data in the list data structure but array can only store homogenous data
+
+
+List can store homogenous as well as heterogenous data depending upon the requirement of the problem
+
+As arrays are not available inbuilt in python so we import array module explicitly but for list their is no need to import any explicit module,
