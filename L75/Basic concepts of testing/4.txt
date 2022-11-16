@@ -1,0 +1,3 @@
+System testing is the test that checks the entire application.
+
+System testing is test that is done before the end user is given the application to test if it meets his expectations.

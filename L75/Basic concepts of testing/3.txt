@@ -1,0 +1,5 @@
+Integration testing tests how the units integrate and work together.
+
+Big Bang Testing is not very efficient way of integration testing.
+
+Top Down Approach tests the top modules first and moves to the lower modules one at a time.

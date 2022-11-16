@@ -1,0 +1,6 @@
+Unit Testing is a micro level testing of individual units of code, to make sure that every unit is working in the intended way it should.
+
+
+A unit is a piece of code that meets a specific functionality, it is generally a program within the application.
+
+Unit test is a library in Python that can be used to write unit tests.

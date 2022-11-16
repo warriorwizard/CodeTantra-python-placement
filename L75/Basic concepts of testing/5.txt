@@ -1,0 +1,7 @@
+The acceptance testing is the last level in testing.
+
+
+Acceptance testing is also known as UAT.
+
+
+User tests the application to see if the application/product meets the business requirements.

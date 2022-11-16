@@ -1,0 +1,6 @@
+Testing in early software days was just debugging.
+
+
+Glenford Myers was the person who first started to have a team who separated from coders to testers.
+
+Every type of testing has a specific purpose and provides value to the end product.

@@ -1,0 +1,6 @@
+Functional Testing is a test that tests the if the application meets the business requirements.
+
+
+Functional Testing tests if the complete application meets the end users requirement.
+
+The non functional requirements are used to test the quality of the application, the performance of the application etc.

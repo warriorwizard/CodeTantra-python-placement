@@ -1,0 +1,4 @@
+The process/method of finding bugs/errors in a software application developed, to ensure that the application meets the user's requirement is called software testing.
+
+
+Software testing is broadly categorised into two types - functional testing and non-functional testing.
