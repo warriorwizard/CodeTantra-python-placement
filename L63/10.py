@@ -1,0 +1,16 @@
+class Student:
+	pass
+stud_1=Student()
+stud_2=Student()
+stud_1.name=input('s1 name: ')
+stud_1.age=input('s1 age: ')
+stud_1.degree=input('s1 degree: ')
+stud_2.name=input('s2 name: ')
+stud_2.age=input('s2 age: ')
+stud_2.degree=input('s2 degree: ')
+print('Stud_1.name:',stud_1.name)
+print('Stud_1.age:',stud_1.age)
+print('Stud_1.graduate:',stud_1.degree)
+print('Stud_2.name:',stud_2.name)
+print('Stud_2.age:',stud_2.age)
+print('Stud_2.graduate:',stud_2.degree)
