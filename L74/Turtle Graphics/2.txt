@@ -1,0 +1,1 @@
+turtle.setx(x) Sets the Turtle to x coordinate.

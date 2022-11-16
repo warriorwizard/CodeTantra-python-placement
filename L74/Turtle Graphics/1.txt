@@ -1,0 +1,1 @@
+Turtle module is a part of standard library.

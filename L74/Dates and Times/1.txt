@@ -1,0 +1,7 @@
+The datetime module has many classes for manipulating dates and times.
+
+The implementation provided by datetime classes are very efficient for output formatting and manipulation of date and time.
+
+An aware object has information of algorithmic time adjustments, such as time zone and daylight saving time information.
+
+The tzinfo objects store information about the offset from UTC time.
