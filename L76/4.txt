@@ -1,0 +1,7 @@
+An assertion is used to verify if an assumption made by the programmer is valid or not.
+
+
+Disabling of assertions is done by using the -O flag (capital O) .
+
+
+Assertion methods can raise Assertion Errors too.

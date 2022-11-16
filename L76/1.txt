@@ -1,0 +1,5 @@
+The unittest is a standard library provided by Python for unit testing.
+
+A unit testing framework is used for automations of tests.
+
+A test case is the individual unit of testing.

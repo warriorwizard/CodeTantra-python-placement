@@ -1,0 +1,6 @@
+Test suite is a class in the unittest module.
+
+
+This class is an interface that specifies the test runner of how to run this suite as a testcase.
+
+Objects of TestSuite are used to aggregate the tests into groups that can be run together.

@@ -1,0 +1,4 @@
+To make a testcase we subclass TestCase or FunctionTestCase of unittest module.
+
+
+A testcase methods when written, the name of the method should be prefixed with test.

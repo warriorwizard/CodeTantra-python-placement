@@ -1,0 +1,5 @@
+A unittest module is used for writing and running test.
+
+unitest.TestCase is a base class which implements the interface methods needed to run the test runner.
+
+An instance of testcase provides three groups of methods each for a specific. purpose.

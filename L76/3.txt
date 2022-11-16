@@ -1,0 +1,7 @@
+ A unittest testcase in Python can be run using the CLI.
+
+
+In Python unittest, We can run tests on multiple modules at once.
+
+
+All the modules, classes and methods that need to be tested can go in a single statement.
