@@ -1,0 +1,7 @@
+Operating System module is one of the modules that is mostly used in Python.
+
+
+We use the OS module to talk to the underlying operating system.
+
+
+All functions in the OS module raise an OSError in case of an exception.

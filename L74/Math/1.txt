@@ -1,0 +1,6 @@
+The math module provides access to the mathematical functions defined by C.
+
+Most of the functions of math module return float values.
+
+
+The cmath module has functions of the same name as math module, but they work on complex numbers.

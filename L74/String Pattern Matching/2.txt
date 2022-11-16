@@ -1,0 +1,5 @@
+A regular expression, is called a pattern.
+
+An atom is a single point within the regex pattern which it tries to match to the target string.
+
+The simplest atom is a literal.

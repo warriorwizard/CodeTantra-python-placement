@@ -1,0 +1,4 @@
+Compilation flags lets a user modify a few parts of regular expressions.
+
+
+IGNORECASE, I is used for case-insensitive matches.

@@ -1,0 +1,3 @@
+ [ ] These are used for specifying a character class.
+
+ * is used as a repeated qualifier for 0 or more times.

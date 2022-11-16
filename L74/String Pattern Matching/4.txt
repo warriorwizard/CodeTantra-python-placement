@@ -1,0 +1,8 @@
+Pattern objects have several methods and attributes like match(), search() etc.
+
+
+The match() and search() return a None if no match is found.
+
+
+
+start() method on match object returns the starting position of the match.

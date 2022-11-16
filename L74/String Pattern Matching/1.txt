@@ -1,0 +1,6 @@
+A regular expression, regex or regexp is a sequence of characters that define a search pattern.
+
+Each character in a regular expression is a meta character, having a special meaning, or a regular character that has a actual meaning.
+
+
+Regular expressions were popular from 1968 for pattern matching in a text editor and lexical analysis in a compiler.
