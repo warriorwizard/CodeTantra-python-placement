@@ -7,4 +7,4 @@ def computeGCD(x, y):
 	return x
 x=int(input("x: "))
 y=int(input("y: "))
-print(computeGCD(x,y))a
+print(computeGCD(x,y))
